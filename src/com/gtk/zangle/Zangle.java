@@ -20,7 +20,7 @@ public class Zangle extends Activity {
 
 
 public void selfDestruct(View view) {
-	// Boom!
+	// Boom!!
 }}
 
 
