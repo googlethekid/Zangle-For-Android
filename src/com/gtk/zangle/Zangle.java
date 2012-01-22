@@ -2,6 +2,8 @@ package com.gtk.zangle;
 
 import android.app.Activity;
 import android.os.Bundle;
+import android.view.View;
+
 import java.net.*;
 import java.io.*;
 
@@ -15,7 +17,15 @@ public class Zangle extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
     }
-}
 
 
-	      
+public void selfDestruct(View view) {
+	// Boom!
+}}
+
+
+/* final EditText nameField = (EditText) findViewById(R.id.idnumber);
+String name = nameField.getText().toString();
+
+final EditText emailField = (EditText) findViewById(R.id.password);
+String email = emailField.getText().toString(); */
