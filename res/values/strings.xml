@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, welcome to Java!</string>
+    <string name="app_name">Zangle StudentConnect</string>
+    <string name="button1">Login</string>
+    <string name="id_hint">ID Number</string>
+    <string name="pass_hint">Password</string>
+    <string name="sig">Designed and Coded by:</string>
+    <string name="devName">Google.the.Kid</string>
+
+</resources>
